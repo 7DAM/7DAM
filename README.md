@@ -9,7 +9,7 @@ I bridge the gap between complex AI capabilities and reliable enterprise deploym
 •	Languages & Scripting:   Python, SQL, Bash, JavaScript/HTML5
 •	Data & AI Engineering:   API Integration (REST/Webhooks), JSON/CSV Parsing, Data Ingestion & Validation, Automation Scripting
 •	Cybersecurity & Governance:   Certified Ethical Hacker (CEH), Secure Data Handling, Vulnerability Assessment, ISO 27001/NIST Compliance
-•	 Tools:   Git, Linux, Postman, SIEM, Telegram API, Docker
+•	 Tools:   Git, Linux, Postman, SIEM, Whatapp/Telegram API, Docker
 
       
 
